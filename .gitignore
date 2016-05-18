@@ -1,0 +1,6 @@
+build
+.idea
+*.bak
+*.o
+*.a
+*.so
